@@ -9,7 +9,7 @@
   <Project>https://github.com/TechJeeper/Printventory</Project>  
   <Overview>Printventory is an open-source 3D printing model library and physical inventory manager. It allows you to organize your 3D models (STL, 3MF, STEP), manage print files, track filament consumption, and keep an overview of your physical stock in a clean WebUI.</Overview>
   <Category>Tools: MediaApp:Other</Category>
-  <WebUI>http://[IP]:[PORT:8095]/</WebUI>  
+  <WebUI>http://[IP]:[PORT:5000]/</WebUI>  
   <Icon>https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/printventory.png</Icon>  
   <DateInstalled>1792433365</DateInstalled>  
   <Config Name="WebUI" Target="5000" Default="8095" Mode="tcp" Description="" Type="Port" Display="always" Required="false" Mask="false">8095</Config>
